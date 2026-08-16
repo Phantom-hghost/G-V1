@@ -1,3 +1,0 @@
-Flask
-gemini==0.30.2
-setuptools<81

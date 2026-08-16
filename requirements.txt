@@ -1,0 +1,2 @@
+Flask
+python-gemini-api==2.4.10
